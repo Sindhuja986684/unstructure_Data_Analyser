@@ -1,5 +1,5 @@
 streamlit
-gTTS
+gtts
 SpeechRecognition
 pydub
 numpy
@@ -13,3 +13,4 @@ spacy
 nltk
 onnxruntime
 opencv-python
+
